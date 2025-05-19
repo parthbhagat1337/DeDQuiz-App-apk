@@ -18,7 +18,7 @@ It uses **Kotlin**, **Jetpack Compose**, and **Firebase Realtime Database** to d
 ## 🎥 Demo Video
 Watch a short demo of DeDQuiz in action:
 
-![Demo Video](asset/DeDQuiz-App.mp4)
+![Demo Video](asset/DeDQuiz-App.gif)
 --------------------------------------------------------------------------------------------------------
 ## 🔍 Features
 
