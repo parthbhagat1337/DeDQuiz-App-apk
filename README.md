@@ -9,10 +9,10 @@ It uses **Kotlin**, **Jetpack Compose**, and **Firebase Realtime Database** to d
 ## 📷 Screenshots
 
 <div align="center">
-  <img src="asset/Start.jpeg" width="100" alt="Intro Screen"/>  
-  <img src="asset/Topic.jpeg" width="100" alt="Topic Selection"/>
-  <img src="asset/MCQ.jpeg" width="100" alt="MCQ Question"/>  
-  <img src="asset/result.jpeg" width="100" alt="Result Screen"/>
+  <img src="asset/Start.jpeg" width="150" alt="Intro Screen"/>  
+  <img src="asset/Topic.jpeg" width="150" alt="Topic Selection"/>
+  <img src="asset/MCQ.jpeg" width="150" alt="MCQ Question"/>  
+  <img src="asset/result.jpeg" width="150" alt="Result Screen"/>
 </div>
 
 ## 🎥 Demo Video
