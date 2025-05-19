@@ -8,10 +8,10 @@ It uses **Kotlin**, **Jetpack Compose**, and **Firebase Realtime Database** to d
 --------------------------------------------------------------------------------------------------------
 ## 📷 Screenshots
 
-![Intro Screen](screenshots/Start.jpeg)
-![Topic Selection](screenshots/topic.jpeg)
-![MCQ Question](screenshots/MCQ.jpeg)
-![Result Screen](screenshots/result.jpeg)
+![Intro Screen](asset/Start.jpeg)
+![Topic Selection](asset/topic.jpeg)
+![MCQ Question](asset/MCQ.jpeg)
+![Result Screen](asset/result.jpeg)
 
 ## 🎥 Demo Video
 Watch a short demo of DeDQuiz in action:
