@@ -29,5 +29,5 @@ It uses **Kotlin**, **Jetpack Compose**, and **Firebase Realtime Database** to d
 --------------------------------------------------------------------------------------------------------
 ## 🚀 How to Run the App
 
-Download the binary https://github.com/parthbhagat1337/DeDQuiz-App-apk/releases/tag/apk  - DeDSec.apk and install it on android and enjoy.
+Download the binary https://github.com/parthbhagat1337/DeDQuiz-App-apk/releases/download/apk/DeDQuiz.apk  - DeDSec.apk and install it on android and enjoy.
 
