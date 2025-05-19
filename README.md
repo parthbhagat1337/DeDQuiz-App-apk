@@ -6,6 +6,11 @@ A sleek and animated quiz game built with **Jetpack Compose**, featuring real-ti
 DeDQuiz is a modern Android quiz application that combines immersive UI effects with a smooth user experience. The app starts with an animated intro screen, connects to Firebase to fetch quiz topics, and guides users through a series of questions in a stylish interface.
 It uses **Kotlin**, **Jetpack Compose**, and **Firebase Realtime Database** to deliver a fast and responsive quiz experience.
 --------------------------------------------------------------------------------------------------------
+## 🎥 Demo Video
+Watch a short demo of DeDQuiz in action:
+
+![Demo Video](asset/DeDQuiz-App.mp4)
+--------------------------------------------------------------------------------------------------------
 ## 🔍 Features
 
 - 🌀 **Animated Intro Screen** with glitching text and rotating hexagon graphics  
